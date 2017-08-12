@@ -1,0 +1,136 @@
+body {
+    background-color: #ffa300;
+    font-family: Verdana, sans-serif;
+	font-size: 10px;
+}
+
+header {
+    height: 160px;
+    color: #d78e3f;
+    border-bottom: 5px solid #ef9900;
+    margin-top: 70px;
+}
+
+h1 {
+    font-size: 6em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+	text-transform: uppercase;
+	color: #3b9ba9; 
+}
+
+h2 {
+    font-size: 2em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+	color: #fb2e3d;  
+}
+
+
+h3 {
+	font-size: 3.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    margin-top: 60px;
+    padding: 0px 20px;
+	color: #fb2e3d;   
+}
+
+h4 {
+    color: #fb2e3d; 
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+h5 {
+    font-size: 1.25em;
+    color: #fb2e3d; 
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+
+.separator {
+    color: #fb2e3d;
+    border-right: 1px solid #ef9900;
+    border-left: 1px solid #ef9900;
+    padding: 0 10px 0 10px;
+    
+}
+
+.separator p {
+    font-size: 1.8em;
+}
+
+
+.highlight {
+    font-size: 3.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    margin-top: 60px;
+	color: #fb2e3d;
+    padding: 10px; 
+    
+    margin-bottom: 100px;
+}
+
+.box {
+    background-color: #5ea9a4;
+   text-align: center;
+    text-transform: uppercase;
+    color: #ffa300;
+    font-size: 3em;
+}
+
+a {
+	color: #3b9ba9;
+    text-decoration: overline;  
+	
+}
+
+a.link {
+	color: #3b9ba9;
+}
+
+a:hover {
+	text-decoration: line-through;
+    color: #3b9ba9;
+}
+
+
+.area {
+    border: 5px solid #fb2e3d; 
+    height: 150px;
+}
+
+.outline {
+    border: 5px solid #fb2e3d; 
+    margin-bottom: 10px;
+    padding: 5px;
+    
+}
+
+.spacing {
+    margin-top: 50px;
+}
+
+footer {
+    height: 160px;
+    color: #614004;
+    border-top: 5px solid #ef9900;
+    margin-top: 70px;
+}
+
+footer p {
+    margin-top: 20px;
+    font-size: 1.25em;
+}
+
+
+

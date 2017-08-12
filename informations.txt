@@ -1,0 +1,18 @@
+Introduction a bootstrap
+Setup Bootstrap document
+Folder name convention
+Container definition
+Row definition
+
+Box Model exploration
+
+Clear Fix
+Offsite
+Nested Columns
+Odering
+
+***Optional
+Google Fonts
+Color Matching
+
+
